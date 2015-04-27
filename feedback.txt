@@ -1,0 +1,1 @@
+The website is usefull, but i think it'll be better if they have some kind of tutorial which covers the functions/stuff we are going to be doing in the lesson. For example we didn't learn about the confirm() function and i was confused at what to do.
